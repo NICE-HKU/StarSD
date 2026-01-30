@@ -6,9 +6,9 @@
 </p>
 
 
-<h3 align="center">
+<h2 align="center">
 One-for-Many Speculative Decoding
-</h3>
+</h2>
 
 
 # About
