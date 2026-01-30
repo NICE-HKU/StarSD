@@ -1,0 +1,10 @@
+# StarSD Configuration
+# ====================
+
+device_base: "cuda:2" # Device for base model when running base_client.py
+device_draft: "cuda:0" # Device for draft model
+communication_port: 23456 
+
+# LLM and SLM
+draft_model_path: /home/tmp/snap/firmware-updater/167/Desktop/hejunhao/EAGLE_MODEL_WEIGHT/EAGLE-Vicuna-7B-v1.3
+base_model_path: /home/tmp/snap/firmware-updater/167/Desktop/hejunhao/EAGLE_MODEL_WEIGHT/vicuna-7b-v1.3

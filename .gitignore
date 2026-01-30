@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+
+# Experiments and logs
+experiment_data/
+base_client_logs/
+client_error_logs/
+*.log
+
+# Large files
+*.ncu-rep
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
