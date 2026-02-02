@@ -148,6 +148,19 @@ The main configuration file `config.yaml` contains the following key parameters:
 - `server_ip`: IP address of Draft Server (default: localhost)
 - `server_port`: Port number of Draft Server
 
+## 📚 Cite Our Work
+
+Should our code assist in your research, please acknowledge our work by citing:
+
+```bib
+@article{he2026starsd,
+ title={StarSD: One-for-Many Speculative Decoding},
+ author={He, Junhao and You, Feiran and Du, Hongyang},
+ journal={arXiv preprint arXiv:2601.21622},
+ year={2026}
+}
+```
+
 ## Acknowledgments
 - [EAGLE](https://github.com/SafeAILab/EAGLE)
 - [MT-Bench](https://huggingface.co/spaces/lmsys/mt-bench)
